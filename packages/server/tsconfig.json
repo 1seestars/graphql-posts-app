@@ -1,0 +1,15 @@
+{
+  "ts-node": {
+    "transpileOnly": true
+  },
+  "compilerOptions": {
+    "typeRoots" : ["./node_modules/@types", "./typings"],
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

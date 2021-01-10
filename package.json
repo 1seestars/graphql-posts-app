@@ -1,0 +1,10 @@
+{
+  "name": "graphql-posts-app",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
